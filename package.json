@@ -1,0 +1,23 @@
+{
+  "name": "hideaddressbar",
+  "fullName": "Hide Address bar",
+  "version": "1.0.0",
+  "keywords": [
+    "mobile",
+    "ios"
+  ],
+  "description": "Hides the iOS address bar on app startup",
+  "joshfire": {
+    "images": {},
+    "hooks": [
+      "bootstrap"
+    ],
+    "options": {
+      "schema": {
+        
+      },
+      "form":[
+      ]
+    }
+  }
+}
